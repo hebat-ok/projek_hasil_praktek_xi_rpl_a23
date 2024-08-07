@@ -1,0 +1,29 @@
+.home {
+    min-height: 80vh;
+}
+
+  /* cok */
+  .footer {
+    background-color: #1cdd15;
+    margin-top: 20px;
+  }
+  
+  .footer a {
+    color: #fff;
+  }
+  
+  .footer ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer ul li {
+    margin-bottom: 10px;
+  }
+  .footer {
+    margin-top: 5rem;
+
+  }
+
+    
+    
